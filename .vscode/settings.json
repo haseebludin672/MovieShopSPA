@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github.com/haseebludin672/MovieShopSPA"
+    ]
+}
